@@ -4,6 +4,7 @@
 **Alex Carter** — UI Designer & Creative Developer based in New York.
 
 ## 🚀 Live Demo
+Loom Video: https://www.loom.com/share/6797a302c6474773b9de1a6ea0ac1103
 Run locally using the steps below
 
 ## 📸 Screenshots
